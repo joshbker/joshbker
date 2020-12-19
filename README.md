@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a style="pointer-events: none;">
+<a style="cursor: default;">
   <img src="https://github-readme-stats.vercel.app/api?username=onlyjot&show_icons=truef"/>
 </a>
 
