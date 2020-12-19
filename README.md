@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=onlyjot&show_icons=truef"/>
+<a style="pointer-events: none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyjot&show_icons=truef"/>
+</a>
 
 <!--
 **onlyjot/onlyjot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
