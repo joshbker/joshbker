@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<a style="cursor: default;">
+<a href="https://github.com/onljot">
   <img src="https://github-readme-stats.vercel.app/api?username=onlyjot&show_icons=truef"/>
 </a>
 
-<!--
+
 **onlyjot/onlyjot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
