@@ -11,5 +11,3 @@ I'm currently working on [Atlas][atlas-repo], a closed-source software designed 
 #### Most Used Languages
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyjot&hide_title=true&hide_border=true&layout=compact"/></a>
 
-#### [Atlas][atlas-repo]
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin?username=atlas-development&repo=atlas&show_owner=true"/></a>
