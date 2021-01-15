@@ -1,5 +1,5 @@
 <!-- Variables for README -->
-[atlas-repo]: https://github.com/atlas-development/atlas
+[atlas-repo]: https://github.com/atlas-development
 
 <!-- Content for README -->
 ### 👋 Hi, I'm Josh, a 15 year old developer.
