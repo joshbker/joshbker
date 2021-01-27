@@ -2,7 +2,7 @@
 [atlas-repo]: https://github.com/atlas-development
 
 <!-- Content for README -->
-### 👋 Hi, I'm Josh, a 15 year old developer.
+### 👋 Hi, I'm Josh.
 I'm currently working on [Atlas][atlas-repo], a closed-source development company, mainly involved in Minecraft.
 
 #### GitHub Statistics
