@@ -1,6 +1,4 @@
 <div align="center">
-<br />
-<img src="https://cdn.discordapp.com/attachments/1001217281696743447/1054430531040845895/yuhi.gif"/>
 <h1>Hi, I'm Josh👋</h1></div>
 
 ---
