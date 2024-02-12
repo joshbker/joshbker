@@ -7,6 +7,6 @@
 
 <br><br>
 
-<a href="https://discord.com/users/259780560707256321"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/259780560707256321??bg=010409"></a>
+<a href="https://discord.com/users/259780560707256321"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/259780560707256321??bg=0d1117"></a>
 
 </div>
